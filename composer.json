@@ -22,19 +22,6 @@
     "source": "https://github.com/tomlutzenberger/yii2-smartsupp-chat",
     "issues": "https://github.com/tomlutzenberger/yii2-smartsupp-chat/issues"
   },
-  "require": {
-    "php": ">=5.4.0",
-    "yiisoft/yii2": ">=2.0.38"
-  },
-  "require-dev": {
-    "roave/security-advisories": "dev-latest"
-  },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://asset-packagist.org"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "TomLutzenberger\\Smartsupp\\": "src"
